@@ -8,4 +8,3 @@ A geographic information system consists of integrated computer hardware and sof
  Coding Tasks & Project outcomes; Research & Development based Project work.
 
  Related works for this Project;- https://github.com/SohelRana-aiub-Pro/Google-Earth-Engine-Research-Project
------------------------------------------------------------------------
