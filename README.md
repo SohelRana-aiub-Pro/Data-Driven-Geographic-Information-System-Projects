@@ -1,4 +1,4 @@
-Data-driven-Geographic-information-system-Project;- Question about the scence
+Data-driven-Geographic-information-system-Project;-
 A geographic information system consists of integrated computer hardware and software that store, manage, analyze, edit, output, and visualize geographic data. 
 
 'Data-driven-Geographic-information-system-Project'
@@ -8,4 +8,4 @@ A geographic information system consists of integrated computer hardware and sof
 
 
 
- Related works for this Project;- https://github.com/SohelRana-aiub-Pro/Google-Earth-Engine-Research-Project
+ Related works for this Project;-
