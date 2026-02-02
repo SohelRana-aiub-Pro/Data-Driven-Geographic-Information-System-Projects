@@ -9,3 +9,6 @@ A geographic information system consists of integrated computer hardware and sof
 
 
  Related works for this Project;-
+
+
+ https://github.com/SohelRana-aiub-Pro/Data-Driven-Land-Cover-Classification-using-NDVI-GEE-Platform
